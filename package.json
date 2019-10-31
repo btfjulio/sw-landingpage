@@ -2,6 +2,10 @@
   "name": "savewhey-lp",
   "private": true,
   "dependencies": {
+    "@rails/webpacker": "^4.0.7",
     "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
   }
 }
