@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: "Teko", sans-serif;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 10px;
     box-sizing: border-box;
 }
 
@@ -85,6 +85,7 @@ a {
         font-size: 10px 
     }
     .cards {
+        height: 12vh;
         width: 30vw;
     }
 }
