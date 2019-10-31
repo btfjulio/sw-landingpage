@@ -22,7 +22,6 @@ a {
     justify-content: space-around;
     align-items: center;
     background-size: cover;
-    line-height: 1;
 }
 
 .logo {
@@ -48,6 +47,7 @@ a {
     color: whitesmoke;
     font-weight: 700;
     .content {
+        line-height: 1;
         padding: 10px 15px 0px 15px;
         box-shadow: 0 0 15px rgba(0,0,0,0.2);
         border-radius: 0.5em;
@@ -74,4 +74,5 @@ a {
     font-weight: lighter;
     color: white;
     text-shadow: 0px 0px 2px black; 
+    padding: 0 2em;
 }
